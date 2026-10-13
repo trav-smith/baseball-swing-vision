@@ -1,0 +1,33 @@
+# Colab / notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Video / media inputs
+inputs/
+*.mov
+*.mp4
+*.m4v
+
+# Generated outputs
+outputs/
+
+# Local data
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.streamlit/secrets.toml
+
+
+# Google Drive document pointers
+docs/
+*.gdoc
